@@ -21,8 +21,8 @@
 
 ### 📊 Performance Metrics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AbdullahAlAsek&show_icons=true&theme=transparent&hide_border=true&title_color=00d1b2&icon_color=00d1b2&text_color=ffffff" alt="Asek's GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlAsek&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2&text_color=ffffff" alt="Asek's Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbdullahAlAsek&show_icons=true&theme=radical&hide_border=true" alt="Asek's GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlAsek&layout=compact&theme=radical&hide_border=true" alt="Asek's Top Languages" height="150" />
 </p>
 
 ---
