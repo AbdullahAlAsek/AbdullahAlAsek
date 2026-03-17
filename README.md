@@ -11,11 +11,11 @@
 
 | Category | Specialized Skills & Frameworks |
 | :--- | :--- |
-| ![Genomics](https://img.shields.io/badge/Genomics_%26_Bioinformatics-059669?style=for-the-badge) | **Genomic Analysis:** WGS, Genetic Conservation, DNA Extraction.<br>**Pipelines:** FastQC, Kmergenie, QUAST.<br>**Assembly & Annotation:** ABySS, Platanus, SOAPdenovo2, NOVOPlasty, MITOS, RepeatMasker.<br>**Evolutionary Analysis:** MEGA X, OrthoVenn2, OGDRAW. |
-| ![Data](https://img.shields.io/badge/Data_Science_%26_Stats-059669?style=for-the-badge) | **Languages:** R Programming, Linux CLI.<br>**Statistical Modeling:** Multivariate Statistics, PCA, ggplot2 Visualization. |
-| ![Spatial](https://img.shields.io/badge/Spatial_Intelligence-059669?style=for-the-badge) | **GIS:** QGIS, ArcGIS, Google Earth Pro.<br>**Remote Sensing:** EnMAP-Box (Supervised/Unsupervised Classification), Land Cover Change Detection. |
-| ![Ecology](https://img.shields.io/badge/Ecology_%26_Conservation-059669?style=for-the-badge) | **Fieldwork:** Biodiversity Assessments, Limnology, Radio Telemetry.<br>**Research:** Animal Behavior Observation, Restoration Planning. |
-| ![Software](https://img.shields.io/badge/Professional_Suite-059669?style=for-the-badge) | **Creative:** Adobe Illustrator, Photoshop, Premiere, GIMP, Shotcut.<br>**Productivity:** Zotero, Microsoft Office Suite, Filmora. |
+| 🧬 **Genomics &**<br>**Bioinformatics** | **Genomic Analysis:** WGS, Genetic Conservation, DNA Extraction.<br>**Pipelines:** FastQC, Kmergenie, QUAST.<br>**Assembly & Annotation:** ABySS, Platanus, SOAPdenovo2, NOVOPlasty, MITOS, RepeatMasker.<br>**Evolutionary Analysis:** MEGA X, OrthoVenn2, OGDRAW. |
+| 📊 **Data Science**<br>**& Stats** | **Languages:** R Programming, Linux CLI.<br>**Statistical Modeling:** Multivariate Statistics, PCA, ggplot2 Visualization. |
+| 🗺️ **Spatial**<br>**Intelligence** | **GIS:** QGIS, ArcGIS, Google Earth Pro.<br>**Remote Sensing:** EnMAP-Box (Supervised/Unsupervised Classification), Land Cover Change Detection. |
+| 🌿 **Ecology &**<br>**Conservation** | **Fieldwork:** Biodiversity Assessments, Limnology, Radio Telemetry.<br>**Research:** Animal Behavior Observation, Restoration Planning. |
+| 💻 **Professional**<br>**Suite** | **Creative:** Adobe Illustrator, Photoshop, Premiere, GIMP, Shotcut.<br>**Productivity:** Zotero, Microsoft Office Suite, Filmora. |
 
 ---
 
