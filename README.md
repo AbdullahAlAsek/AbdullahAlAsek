@@ -1,38 +1,35 @@
-# Hi there! 👋 I'm Abdullah Al Asek
+# 🧬 Abdullah Al Asek (Asek)
+**DAAD Scholar | Landscape Ecology & Nature Conservation**
 
-🌍 **DAAD Scholar** | 🌿 **Landscape Ecology & Nature Conservation**
+> Passionate nature conservationist with over three years of experience in biodiversity research, ecological restoration, and sustainable ecosystem management. Currently pursuing an MSc in Landscape Ecology and Nature Conservation at Universität Greifswald as a prestigious DAAD scholarship recipient.
 
-Passionate nature conservationist with over three years of experience in biodiversity research, ecological restoration, and sustainable ecosystem management. Currently pursuing an MSc in Landscape Ecology and Nature Conservation at Universität Greifswald as a prestigious DAAD scholarship recipient.
-
-Bringing a strong interdisciplinary foundation in zoology, I am specializing in conservation genetics, bioinformatic tools, and genomic data analysis to drive data-informed protection of endangered species.
-
----
-
-### 🧬 Genetics & Bioinformatics
-* **Genomic Analysis:** Whole-Genome Sequencing (WGS), Genetic Conservation, raw genomic data analysis, DNA extraction, and genetic bird sex identification.
-* **Pipeline Tools:** FastQC (read quality checking), Kmergenie (k-mer analysis), QUAST (assembly validation).
-* **Assembly & Annotation:** De novo sequence assembly preparation (ABySS, Platanus, SOAPdenovo2), mitochondrial genome assembly (NOVOPlasty), sequence analysis (MITOS), and repeat content annotation (RepeatMasker).
-* **Evolutionary Biology:** Evolutionary and phylogenetic analysis (MEGA X), comparative genome analyses (OrthoVenn2), and genomic visualization (OGDRAW).
-
-### 📊 Data Science & Programming
-* **Languages:** R Programming, Linux command line.
-* **Statistics:** Multivariate Statistics, Principal Component Analysis (PCA).
-* **Visualization:** ggplot2.
-
-### 🗺️ Spatial Analysis & Ecological Modeling
-* **GIS Mapping:** QGIS, ArcGIS, Google Earth Pro.
-* **Remote Sensing:** EnMAP-Box (Supervised and unsupervised classification), Land Cover Change Detection.
-
-### 🌿 Conservation & Field Ecology
-* **Fieldwork:** Biodiversity Assessments, Limnology, Water Quality Analysis, Radio Telemetry.
-* **Research:** Animal Behavior Observation, Ecological Restoration Planning.
-
-### 💻 Software
-* Zotero, Adobe Illustrator, Adobe Photoshop, Microsoft Word, Excel, Powerpoint, Picasa, GIMP, KineMaster, Shotcut, Adobe Premier, Wondershare Filmora.
+>Bringing a strong interdisciplinary foundation in zoology, I am specializing in conservation genetics, bioinformatic tools, and genomic data analysis to drive data-informed protection of endangered species.
 
 ---
 
-### 📫 Let's Connect!
-- **Website/Portfolio:** [asek.info](https://www.asek.info/)
-- **Email:** [hi@asek.info](mailto:hi@asek.info)
-- **Location:** Greifswald, Germany
+### 🛠️ Technical Ecosystem
+
+| Category | Specialized Skills & Frameworks |
+| :--- | :--- |
+| **Genomics & Bioinformatics** | **Genomic Analysis:** WGS, Genetic Conservation, DNA Extraction.<br>**Pipelines:** FastQC, Kmergenie, QUAST.<br>**Assembly & Annotation:** ABySS, Platanus, SOAPdenovo2, NOVOPlasty, MITOS, RepeatMasker.<br>**Evolutionary Analysis:** MEGA X, OrthoVenn2, OGDRAW. |
+| **Data Science & Stats** | **Languages:** R Programming, Linux CLI.<br>**Statistical Modeling:** Multivariate Statistics, PCA, ggplot2 Visualization. |
+| **Spatial Intelligence** | **GIS:** QGIS, ArcGIS, Google Earth Pro.<br>**Remote Sensing:** EnMAP-Box (Supervised/Unsupervised Classification), Land Cover Change Detection. |
+| **Ecology & Conservation** | **Fieldwork:** Biodiversity Assessments, Limnology, Radio Telemetry.<br>**Research:** Animal Behavior Observation, Restoration Planning. |
+| **Professional Suite** | **Creative:** Adobe Illustrator, Photoshop, Premiere, GIMP, Shotcut.<br>**Productivity:** Zotero, Microsoft Office Suite, Filmora. |
+
+---
+
+### 📊 Performance Metrics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=AbdullahAlAsek&show_icons=true&theme=transparent&hide_border=true&title_color=00d1b2&icon_color=00d1b2&text_color=ffffff" alt="Asek's GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlAsek&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2&text_color=ffffff" alt="Asek's Top Languages" height="150" />
+</p>
+
+---
+
+### 🌐 Global Reach & Contact
+* **Portfolio:** [asek.info](https://www.asek.info/)
+* **Email:** [hi@asek.info](mailto:hi@asek.info)
+* **Location:** Greifswald, Germany
+
+---
